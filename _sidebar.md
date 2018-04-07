@@ -2,4 +2,4 @@
 
 * [Home](/)
 * [Guide](guide.md)
-* [Typescript stuff](/tsdocs/index.html ':ignore')
+* [Typescript stuff](tsdocs/index.html)
